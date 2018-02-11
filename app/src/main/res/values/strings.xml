@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Darksky</string>
+    <string name="enter_city">Enter a city</string>
+    <string name="get_weather">Get Weather!</string>
+    <string name="summary">The current weather is: </string>
+    <string name="temp">The current temperature is: </string>
+    <string name="dewPoint">The current dew point is: </string>
+    <string name="humidity">The current humidity is: </string>
+    <string name="precipProb">The current probability of precipitation is: </string>
+    <string name="uvIndex">The current uv index is: </string>
+    <string name="windSpeed">The current wind speed is: </string>
+    <string name="feelsLike">It feels like: </string>
+</resources>
